@@ -20,4 +20,11 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.file for details.
+
+## Maintainers
+
+| Maintainer | GitHub | Twitter |
+|------------|--------|---------|
+| **Chizy** | [@chizy7](https://github.com/chizy7) | [![Twitter Follow](https://img.shields.io/twitter/follow/chizyization?style=social)](https://x.com/Chizyization) |
+| **Rumeza** | [@rumezaa](https://github.com/rumezaa) | [![Twitter Follow](https://img.shields.io/twitter/follow/rumezaft?style=social)](https://x.com/rumezaft) |
