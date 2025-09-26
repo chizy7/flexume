@@ -1,0 +1,9 @@
+[tool.poetry]
+name = "flexume-backend"
+version = "0.1.0"
+description = "Open source ATS resume scanner with AI-powered feedback"
+authors = ["Chizy <chizy@chizyhub.com>", "Rumeza <https://github.com/rumezaa>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
